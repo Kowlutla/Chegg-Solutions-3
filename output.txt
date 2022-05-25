@@ -1,0 +1,35 @@
+Grass Amount:			10000.0 dirhams
+Federal Income Tax:		1500.0 dirhams
+State Tax:				350.0 dirhams
+Retirement Plan:		500.0 dirhams
+Health Insurance:		750.0 dirhams
+Net Salary:				6900.0 dirhams
+------------------------------------------------------
+Grass Amount:			20000.0 dirhams
+Federal Income Tax:		3000.0 dirhams
+State Tax:				700.0 dirhams
+Retirement Plan:		1000.0 dirhams
+Health Insurance:		750.0 dirhams
+Net Salary:				14550.0 dirhams
+------------------------------------------------------
+Grass Amount:			40000.0 dirhams
+Federal Income Tax:		6000.0 dirhams
+State Tax:				1400.0 dirhams
+Retirement Plan:		2000.0 dirhams
+Health Insurance:		750.0 dirhams
+Net Salary:				29850.0 dirhams
+------------------------------------------------------
+Grass Amount:			55000.0 dirhams
+Federal Income Tax:		8250.0 dirhams
+State Tax:				1925.0 dirhams
+Retirement Plan:		2750.0 dirhams
+Health Insurance:		750.0 dirhams
+Net Salary:				41325.0 dirhams
+------------------------------------------------------
+Grass Amount:			88000.0 dirhams
+Federal Income Tax:		13200.0 dirhams
+State Tax:				3080.0 dirhams
+Retirement Plan:		4400.0 dirhams
+Health Insurance:		750.0 dirhams
+Net Salary:				66570.0 dirhams
+------------------------------------------------------
